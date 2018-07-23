@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h1 {
+	font-family: 'Merienda';
+}
+
+h3 {
+	font-family: 'Merienda';
+	font-size:32px;
+	text-align: center;
+}
+
+p {
+	font-family: 'Roboto';
+	text-align: justify;
+}
+
+.titulo {
+	margin-left: 5vw;
+
+}
+
+.colunas {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4vh;
+  padding-bottom:4vh;
+}
+
+.margens { /*classe de padding/margem para a home*/
+
+	margin-top: 15vh;
+	margin-bottom: 15vh;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+
+}
+
+.margens2 { /*classe de padding/margem para as outras paginas*/
+
+	margin-top: 30vh;
+	margin-bottom: 30vh;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+
+}
+
+.fundo{
+	background-image: url(assets\img\bg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.logompr  {
+	width: 105px;
+	padding-left:3px;
+}
+
+.logompr2 {
+	width: 210px;
+	padding-left:3px;
+}
+
+.botao_login {
+	margin-bottom: 3%;
+}
+
+.centro {
+	text-align:center;
+}
+
+
